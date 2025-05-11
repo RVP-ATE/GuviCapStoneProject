@@ -1,5 +1,7 @@
 🧪 SauceProject - Automated Testing using Python Selenium & Pytest
-Capstone Project for PAT | Author: Basil Hameed
+
+Capstone Project for PAT | Author: PAVAN KUMAR RV
+
 🔍 Project Overview
 This project focuses on automating end-to-end testing of the e-commerce demo website SauceDemo using Python Selenium, Pytest, and the Page Object Model (POM). The system ensures both functional correctness and UI behavior verification via automated test scripts.
 
